@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+  padding: 0 20px;
+}
+
+img {
+  max-width: 50%;
+  margin: 0 auto;
+  display: block;
+}
+
+h1,
+h2,
+h3 {
+  color: #231d3c;
+  font-family: "Merriweather", "serif";
+  font-weight: 900;
+}
+
+h1 {
+  text-align: center;
+  margin: 0;
+  font-family: "Roboto", "PT Serif", sans-serif;
+  font-size: 36px;
+  font-weight: 900;
+  line-height: 48px;
+}
+
+.awesome-icon1 {
+  color: #231d3c;
+  font-size: 50px;
+}
+
+.awesome-icon2 {
+  color: #ff5b87;
+  font-size: 70px;
+}
+
+.awesome-icon3 {
+  color: #0f3cff;
+  font-size: 100px;
+}
